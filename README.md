@@ -1,2 +1,2 @@
 # Azure_CI/CD
-Azure C/CD using Azure DevOps
+Azure CI/CD using Azure DevOps
